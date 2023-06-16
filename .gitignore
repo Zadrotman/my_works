@@ -1,0 +1,6 @@
+__pycache__/
+virt/
+.idea/
+.vscode/
+telegram_bot_info.txt
+MGE_Bratki.db
